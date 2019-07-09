@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# My Success Criteria
+<br>
+To add to the success criterias, I would add: 
+<br>
+Let users contact selected employee via email button. 
+<br>
+The reason: 
+<br>
+If this is an employee database, then it would be great if one could contact the employee by sending an email with the click of a button. Eventaully, it can be more complex like connect with them on social media, etc... but email is a great start.
