@@ -76,3 +76,11 @@ Let users contact selected employee via email button.
 The reason: 
 <br>
 If this is an employee database, then it would be great if one could contact the employee by sending an email with the click of a button. Eventaully, it can be more complex like connect with them on social media, etc... but email is a great start.
+
+# My Success Criteria Option 2
+<br>
+To add to the success criterias, I would add: 
+<br>
+Let users filter by first name and last name
+
+
